@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2303-687X&color=green&style=flat-square&logo=orcid)](https://orcid.org/
-0000-0002-2303-687X)
+0000-0002-2303-687X)]
