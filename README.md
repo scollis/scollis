@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Welcome, I am Scott Collis of Argonne National Laboratory and Northwestern University
 <!--
 **scollis/scollis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2303-687X&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2303-687X)
+## I am an atmospheric scientist and open science evangalist funded by the Department of Energy and National Science Foundation. I am the science lead for the Python ARM Radar Toolkit, Editor at Artificial Intelligence for the Earth Systems (AIES), Chair of the AMS Committee on Radar Meteorology and a science outreach expert on climate and weather. 
