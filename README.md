@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/scott-collis-52bb0b1/)
 
 
-## I am an atmospheric scientist and open science evangalist funded by the Department of Energy and National Science Foundation. I am the science lead for the Python ARM Radar Toolkit, Editor at Artificial Intelligence for the Earth Systems (AIES), past Chair of the AMS Committee on Radar Meteorology and a science outreach expert on climate and weather. 
+## I am an atmospheric scientist and open science evangelist funded by the Department of Energy. I am the science lead for the Python ARM Radar Toolkit, AI Coordinator for ARM, Editor at Artificial Intelligence for the Earth Systems (AIES), past Chair of the AMS Committee on Radar Meteorology and a science outreach expert on our atmosphere and how its predicted. 
