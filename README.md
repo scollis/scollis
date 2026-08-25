@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2303-687X&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2303-687X)
-[![Twitter Badge](https://img.shields.io/twitter/follow/cyclogenesis_au?style=social)](https://twitter.com/cyclogenesis_au)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/scott-collis-52bb0b1/)
 
 
